@@ -14,6 +14,14 @@ The Personal Expense Tracker is a Django-based web application designed to help 
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: SQLite (default) or PostgreSQL (configurable)
 
+  ## License  
+- This project is licensed under the **MIT License** 
+
+**MIT License Summary**:  
+- Permission is granted for free use, modification, and distribution.  
+- Include the original copyright notice and license in all copies.  
+- No liability/warranty is provided.  
+
 ## Installation
 1. Clone the repository:
    ```bash
