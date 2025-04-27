@@ -17,4 +17,4 @@ The Personal Expense Tracker is a Django-based web application designed to help 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personal-expense-tracker.git
+   git clone https://github.com/Omkarsawant38/personal-expense-tracker.git
